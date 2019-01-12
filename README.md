@@ -1,2 +1,2 @@
 # Ginger
-A google homepage replacement for gay gingers
+A google homepage edit for gingers
